@@ -1,0 +1,4 @@
+# git hub로 저장해야 할 때
+git add .                # 폴더 이동
+git commit -m "백업 메시지" # 변경된 파일 추가
+git push
